@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ip-lab/static/css/main.55ff9107.css",
+    "main.js": "/ip-lab/static/js/main.274e6f31.js",
+    "static/media/collegepage.jpg": "/ip-lab/static/media/collegepage.486cc19ab60829af602b.jpg",
+    "index.html": "/ip-lab/index.html",
+    "main.55ff9107.css.map": "/ip-lab/static/css/main.55ff9107.css.map",
+    "main.274e6f31.js.map": "/ip-lab/static/js/main.274e6f31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55ff9107.css",
+    "static/js/main.274e6f31.js"
+  ]
+}
